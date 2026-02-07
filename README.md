@@ -1,16 +1,64 @@
-# React + Vite
+# Shree Durga Traders – Business Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, multilingual business website for **Shree Durga Traders**, showcasing grain processing services such as Floor Mill, Rice Mill, Chilli Machine, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌾 About the Business
 
-## React Compiler
+**Shree Durga Traders** provides reliable and quality grain processing services for local customers, farmers, and traders.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Services include:**
+- Floor Mill
+- Rice Mill
+- Chilli Grinding Machine
+- Other grain processing services
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Website Features
+
+- ⚛️ Built with **React**
+- 🌍 **Multilingual support**: English | Marathi | Hindi
+- 📱 Mobile-first, responsive design
+- 📸 Photo & 🎥 Video gallery
+- 💬 Click-to-call & WhatsApp integration
+- 📍 Google Map location
+- ⭐ Testimonials & “Why Choose Us” section
+- ⚡ Fast and SEO-friendly
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- JavaScript
+- CSS / Tailwind CSS (as applicable)
+- JSON-based translations
+- Git & GitHub
+
+---
+
+## 📁 Project Structure (simplified)
+
+src/
+├── components/
+├── pages/
+├── assets/
+│ ├── images/
+│ └── videos/
+├── translations/
+│ ├── en.json
+│ ├── mr.json
+│ └── hi.json
+├── App.jsx
+└── main.jsx
+
+
+---
+
+## 🚀 Getting Started
+
+### Install dependencies
+```bash
+npm install
