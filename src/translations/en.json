@@ -1,0 +1,96 @@
+﻿{
+  "meta": {
+    "siteName": "Shree Durga Traders",
+    "tagline": "Trusted Floor, Rice, and Chilli Processing Services"
+  },
+  "header": {
+    "businessType": "Grain Processing Services"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  },
+  "hero": {
+    "title": "Shree Durga Traders",
+    "subtitle": "Reliable milling support for farmers, traders, and local families.",
+    "description": "We provide quality floor milling, rice milling, chilli grinding, and related grain processing under one roof.",
+    "callButton": "Call Now",
+    "whatsappButton": "Chat on WhatsApp"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Shree Durga Traders serves the local farming and trading community with dependable grain processing. Our team focuses on clean handling, consistent grinding, and timely service for every customer.",
+    "highlights": [
+      "Local and customer-friendly support",
+      "Clean and accurate processing",
+      "Fast turnaround during peak season"
+    ]
+  },
+  "services": {
+    "title": "Services & Machines",
+    "items": [
+      {
+        "name": "Floor Mill",
+        "description": "Fine flour grinding for wheat and other grains with consistent texture."
+      },
+      {
+        "name": "Rice Mill",
+        "description": "Efficient rice cleaning and milling for households and traders."
+      },
+      {
+        "name": "Chilli Grinding Machine",
+        "description": "Hygienic chilli grinding with controlled fineness and color quality."
+      },
+      {
+        "name": "Other Grain Processing",
+        "description": "Custom processing support for multiple grains based on customer needs."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo & Video Gallery",
+    "photosTitle": "Photos",
+    "videosTitle": "Videos"
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "items": [
+      "Experienced operators and maintained machines",
+      "Transparent service and fair pricing",
+      "Focus on quality, cleanliness, and safe handling",
+      "Convenient for local villages and market traders"
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "items": [
+      {
+        "name": "Ramesh Patil",
+        "text": "Grinding quality is excellent and service is always on time."
+      },
+      {
+        "name": "Savita Jadhav",
+        "text": "We process our grains here regularly. Staff is helpful and respectful."
+      },
+      {
+        "name": "Mahesh Agro Traders",
+        "text": "Reliable partner for rice and chilli processing during busy months."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "addressLabel": "Address",
+    "address": "Main Road, Near Market Yard, Your City, Maharashtra",
+    "mapPlaceholder": "Map location placeholder"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "common": {
+    "callNumber": "+91 98765 43210",
+    "whatsappNumber": "919876543210",
+    "whatsappMessage": "Hello, I want details about grain processing services."
+  }
+}
