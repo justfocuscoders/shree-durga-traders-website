@@ -215,12 +215,58 @@ blockquote {
   overflow: hidden;
 }
 
-.media-card img,
 .media-card video {
   width: 100%;
   height: 220px;
   object-fit: cover;
   display: block;
+}
+
+.gallery-photo {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.media-card--interactive {
+  cursor: pointer;
+}
+
+.gallery-view-all {
+  margin-top: 1rem;
+}
+
+.gallery-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  overflow-y: auto;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.gallery-modal__content {
+  width: min(1100px, 100%);
+  margin: 0 auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  padding: 1rem;
+}
+
+.gallery-modal__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.gallery-close {
+  white-space: nowrap;
 }
 
 .testimonial {

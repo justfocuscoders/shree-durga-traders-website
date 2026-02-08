@@ -1,18 +1,18 @@
 ﻿{
   "meta": {
     "siteName": "Shree Durga Traders",
-    "tagline": "Trusted Floor, Rice, and Chilli Processing Services"
+    "tagline": "\"Shri Ram\" | Machinery Merchants"
   },
   "header": {
-    "businessType": "Grain Processing Services"
+    "businessType": "Machinery Merchants"
   },
   "languageSwitcher": {
     "label": "Language"
   },
   "hero": {
     "title": "Shree Durga Traders",
-    "subtitle": "Reliable milling support for farmers, traders, and local families.",
-    "description": "We provide quality floor milling, rice milling, chilli grinding, and related grain processing under one roof.",
+    "subtitle": "All type rice mill and spare parts suppliers.",
+    "description": "Proprietor: Nagesh M Naidu",
     "callButton": "Call Now",
     "whatsappButton": "Chat on WhatsApp"
   },
@@ -82,15 +82,15 @@
     "phoneLabel": "Phone",
     "whatsappLabel": "WhatsApp",
     "addressLabel": "Address",
-    "address": "Main Road, Near Market Yard, Your City, Maharashtra",
+    "address": "At. Post Poladpur, Dist. Raigad - 402303",
     "mapPlaceholder": "Map location placeholder"
   },
   "footer": {
     "copyright": "All rights reserved."
   },
   "common": {
-    "callNumber": "+91 98765 43210",
-    "whatsappNumber": "919876543210",
-    "whatsappMessage": "Hello, I want details about grain processing services."
+    "callNumber": "+91 98341 83149",
+    "whatsappNumber": "919834183149",
+    "whatsappMessage": "Hello, I want details about rice mill machines and spare parts."
   }
 }
