@@ -33,7 +33,7 @@ function App() {
       </header>
 
       <main>
-        <Hero hero={t.hero} common={t.common} />
+        <Hero hero={t.hero} common={t.common} businessType={t.header.businessType} />
         <About about={t.about} />
         <Services services={t.services} />
         <Gallery gallery={t.gallery} />
@@ -42,7 +42,12 @@ function App() {
         <Contact contact={t.contact} common={t.common} />
       </main>
 
-      <Footer siteName={t.meta.siteName} copyright={t.footer.copyright} />
+      <Footer
+        siteName={t.meta.siteName}
+        copyright={t.footer.copyright}
+        contact={t.contact}
+        common={t.common}
+      />
       <StickyWhatsApp hero={t.hero} common={t.common} />
     </div>
   );
